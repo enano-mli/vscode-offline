@@ -1,0 +1,10 @@
+# 大体积二进制产物，不入库
+*.install.sh
+*.exe
+*.vsix
+vscode-server-linux-*/
+vscode-extensions-linux-*/
+
+# 本地研究资料（按需保留）
+.research/
+.rn/
